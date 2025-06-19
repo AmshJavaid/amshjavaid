@@ -1,16 +1,15 @@
-## Hi there 👋
+## About Me
+I am a software engineer with a focus on artificial intelligence, blockchain, and web application development. Passionate about building secure, scalable, and user-focused digital systems.
 
-<!--
-**AmshJavaid/amshjavaid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Currently working on a blockchain-based organ donation registry.
+- Experienced in Python, Solidity, TensorFlow, and React.
+- Open to collaborative projects and freelance consulting.
 
-Here are some ideas to get you started:
+## Technologies
+- Programming: Python, JavaScript, Solidity, C++
+- Frameworks: React, Node.js, Flask, Express
+- Tools: Git, Docker, Firebase, MongoDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- Email: amshjavaidd@gmail.com
