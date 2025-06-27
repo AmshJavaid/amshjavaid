@@ -1,4 +1,4 @@
-## Introduction
+## About Me
 I am a software engineer with a focus on artificial intelligence, blockchain, and web application development. Passionate about building secure, scalable, and user-focused digital systems.
 
 - Currently working on a blockchain-based organ donation registry.
